@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="textLogo">Погода в вашем городе</string>
+    <string name="textHint">Введите город</string>
+    <string name="textBtn">Узнать погоду</string>
+    <string name="textNoUserInput">Введите текст</string>
+</resources>
